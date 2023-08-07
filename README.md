@@ -1,8 +1,7 @@
 ### [文档](https://www.kancloud.cn/momoyu/momoyu/3169622)  | [WEB演示](https://pc.momoyucm.top)
 ### 项目说明
-- JAVA+unipp开发的chatgpt程序
+- JAVA+vue+uni开发的chatgpt程序
 - 开发脚手架基于人人开源 https://gitee.com/renrenio/renren-security
-- chatgpt JAVASDK 基于Grt1228大佬开源的,地址https://github.com/Grt1228/chatgpt-java
 - java开发的chatgpt小程序  前端使用uniapp   可打包多端运行  APP  H5  公众号  小程序等 ,三级分销,卡密充值,提供opai的反向代理,
 - 后台包括海报管理,充值配置管理,GPTKEY管理,用户管理,分销提现管理,问答模板配置,AI模配置等
 - 基础的CHATPDF功能  会进一步完善这个
@@ -10,12 +9,9 @@
 - WEB版本包括SD绘画,FS绘画等
 - 接入三方内容检测功能,免得乱提问题坐牢去了
 - 具体功能看演示(演示为商业版本)
-- WEB演示地址：https://pc.momoyucm.top
-- H5演示地址：https://ai.momoyucm.top
-- 后台页面仓库地址 https://gitee.com/shican1234/chatgpt-admin-ui.git
-- UNIAPP仓库地址 https://gitee.com/shican1234/chatgpt-uniapp.git
-- 商业版H5公众号和小程序演示: ![输入图片说明](renren-admin/src/main/resources/public/gzh2.jpg)
-
+- WEB演示地址：http://pc.zhuzaishuo.love
+- H5演示地址：http://h5.zhuzaishuo.love 通过手机验证码，输入浏览器访问
+- 有后台配置参数地址，如模型问答管理，海报设置，支付配置，提现管理，用户管理，卡密配置等等
 <br>
 
 
