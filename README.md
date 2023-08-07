@@ -1,4 +1,4 @@
-### [文档](https://www.kancloud.cn/momoyu/momoyu/3169622)  | [WEB演示](https://pc.momoyucm.top)
+### [文档] | [WEB演示](https://pc.zhuzaishuo.love)
 ### 项目说明
 - JAVA+vue+uni开发的chatgpt程序
 - 开发脚手架基于人人开源 https://gitee.com/renrenio/renren-security
