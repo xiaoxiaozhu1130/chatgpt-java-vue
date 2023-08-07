@@ -53,41 +53,37 @@ npm install
 
 ### 项目截图(截图内容为商业版本)
 **WEB页面**
-![输入图片说明](renren-admin/src/main/resources/public/pc11.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc0.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc1.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc2.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc3.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc4.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc5.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc6.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc7.png)
-![输入图片说明](renren-admin/src/main/resources/public/pc8.png)
+![输入图片说明](renren-admin/src/main/resources/public/web1.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web2.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web3.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web4.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web5.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web6.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web7.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web8.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/web9.jpg)
 
-**UNIAPP页面**
+*手机端页面**
 ![输入图片说明](renren-admin/src/main/resources/public/qd1.png)
-![输入图片说明](renren-admin/src/main/resources/public/qd2.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd3.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd4.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd5.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd6.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd7.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd8.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd9.jpeg)
-![输入图片说明](renren-admin/src/main/resources/public/qd10.jpeg)
+![输入图片说明](renren-admin/src/main/resources/public/h1.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/h2.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/h3.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/h4.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/h5.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/h6.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/h7.jpg)
 **后台页面**
-![输入图片说明](renren-admin/src/main/resources/public/ht1.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht2.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht3.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht4.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht5.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht6.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht7.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht8.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht9.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht10.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht11.png)
-![输入图片说明](renren-admin/src/main/resources/public/ht12.png)
+![输入图片说明](renren-admin/src/main/resources/public/ht1.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht2.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht3.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht4.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht5.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht6.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht7.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht8.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht9.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht10.jpg)
+![输入图片说明](renren-admin/src/main/resources/public/ht11.jpg)
 
 ### 普通版本与商业版的区别
 |  功能    |  基础版本   |  商业版   |
@@ -123,6 +119,6 @@ npm install
 
 
 ### 详细可联系
-VX:shican19930703
-![输入图片说明](renren-admin/src/main/resources/public/wx.jpg)
+VX:MYBMWUPUPUP
+![输入图片说明](renren-admin/src/main/resources/public/weixin.jpg)
 # chatgpt-java-vue
